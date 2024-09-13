@@ -211,7 +211,7 @@
 
 ### Model descrition
 
-- _Write model information and why your select this model_
+Baseline 코드의 RandomForest 모델 사용
 
 ### Modeling Process
 
