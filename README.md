@@ -237,9 +237,10 @@ FROM ml.train;
 ## 4. Result
 
 ### Leader Board
-
-- _Insert Leader Board Capture_
-- _Write rank and score_
+<div align="center">
+  <img src="./img/경진대회리더보드최종.png" width="400" height="400" alt="경진대회 리더보드 최종결과 Image">
+</div>
+- 저희 팀은 "ML 5조" 였습니다.
 
 ### Presentation
 
