@@ -243,5 +243,4 @@ FROM ml.train;
 - 저희 팀은 "ML 5조" 였습니다.
 
 ### Presentation
-
-- _Insert your presentaion file(pdf) link_
+https://github.com/Upstage-AI-Lab-4/upstage-ai-ml-regression-ml-5/blob/main/%5B%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4%5D%20Upstage%20AI%20Lab%204%EA%B8%B0_ML%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_5%EC%A1%B0.pdf
