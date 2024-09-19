@@ -228,7 +228,6 @@ FROM ml.train;
 - 재건축 조건에 연한 이외에도 안전진단점수가 D등급 혹은 E등급을 받아야하는데 관련 데이터를 구하고 join할 시간이 부족하였음. 재건축연한만을 충족하는 경우, 오래된 아파트여서 가격이 오히려 더 낮은 것을 지표로 확인할 수 있었기에 feature drop
 <div align="center">
   <img src="./img/rebuild_condition.png" width="400" height="400" alt="재건축연한 조건 Image">
-  <em>재건축연한 조건</em>
 </div>
 <div align="center">
   <img src="./img/rebuild.png" width="400" height="400" alt="재건축연한여부 파생변수 추가 Image">
